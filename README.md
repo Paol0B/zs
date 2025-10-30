@@ -274,27 +274,6 @@ zig build -Doptimize=ReleaseSmall
 
 *Note: Times may vary based on system specifications and disk I/O.*
 
-## 🤝 Contributing
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-5. 🎉 Open a Pull Request
-
-### Areas for Contribution
-
-- 🐛 Bug fixes and improvements
-- 📚 Documentation enhancements
-- ✨ New features (parallel scanning, ignore patterns, etc.)
-- 🧪 Test coverage
-- 🌍 Platform support (Windows, macOS)
-
-
 ## 🙏 Acknowledgments
 
 - Built with [Zig](https://ziglang.org/) - A general-purpose programming language
